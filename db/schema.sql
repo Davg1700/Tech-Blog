@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS techB_db;
+CREATE DATABASE techB_db;
+
+USE DATABASE techB_db;
