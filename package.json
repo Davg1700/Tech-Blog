@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/lucasz10/volleyball-team-management.git"
+      "url": "git+https://github.com/Davg1700/Tech-Blog"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/lucasz10/volleyball-team-management/issues"
+      "url": "https://github.com/Davg1700/Tech-Blog/issues"
     },
-    "homepage": "https://github.com/lucasz10/volleyball-team-management#readme",
+    "homepage": "https://github.com/Davg1700/Tech-Blog#readme",
     "dependencies": {
       "bcrypt": "^5.0.1",
       "connect-session-sequelize": "^7.1.5",
